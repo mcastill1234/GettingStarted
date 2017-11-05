@@ -1,4 +1,4 @@
-package com.company;
+package com.examples;
 
 public class Multiply {
     public static void times(double a, double b){

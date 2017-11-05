@@ -1,4 +1,4 @@
-package com.company;
+package com.examples;
 
 class NewLine {
     public static void newLine(){

@@ -1,4 +1,4 @@
-package com.company;
+package com.examples;
 
 public class DoMath {
     public static void main(String[] arguments){

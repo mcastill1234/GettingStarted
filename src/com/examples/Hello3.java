@@ -1,4 +1,4 @@
-package com.company;
+package com.examples;
 
 public class Hello3 {
     public static void main(String[] arguments){

@@ -1,4 +1,4 @@
-package com.company;
+package com.examples;
 
 public class Square3 {
     public static void printSquare(double x){

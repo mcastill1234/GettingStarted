@@ -1,4 +1,4 @@
-package com.company;
+package com.examples;
 
 public class test {
     public static void test(int x){

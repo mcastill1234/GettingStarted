@@ -1,4 +1,4 @@
-package com.company;
+package com.examples;
 
 public class GravityCalculator {
     public static void main(String[] arguments){

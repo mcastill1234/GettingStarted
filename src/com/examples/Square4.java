@@ -1,4 +1,4 @@
-package com.company;
+package com.examples;
 
 public class Square4 {
     public static double square(double x){
